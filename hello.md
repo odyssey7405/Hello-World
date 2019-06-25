@@ -8,4 +8,4 @@
  - push: 원격 저장소에 커밋을 업로드 한다.
 
  ## 코드뭉치버리기
- - Source Tree에서 수정된 내용을 git의 내용으로 복원하는 기능
+ - Source Tree에서 수정된 내용을 git의 내용으로 복원하는 기능 (git = check out)
